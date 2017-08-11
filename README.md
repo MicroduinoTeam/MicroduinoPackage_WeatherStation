@@ -1,7 +1,5 @@
 # MicroduinoPackage_WeatherStation
 
-MicroduinoPackage_CardPlayer
-
 ============== 2017-07-14：
 
 Library进行了一次大更新，可能会和之前的程序有不兼容
